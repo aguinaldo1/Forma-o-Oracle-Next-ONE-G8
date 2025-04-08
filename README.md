@@ -96,6 +96,8 @@ São uma metodologia baseada no Challenge-Based Learning, uma abordagem de apren
 
 Mãos na massa!
 - Praticando lógica de programação: Challenge amigo secreto.
+  <a href=“https://github.com/aguinaldo1/Challenge-Amigo-secreto---PT---Alura“>Challenge-Amigo-secreto---PT---Alura</a>
+  https://jogo-do-numero-secreto-henna-five.vercel.app/
 
 
 Domine a arte de criar prompts no ChatGPT
